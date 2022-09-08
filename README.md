@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xanman414
+- 👀 I’m interested in game designing
+- 🌱 I’m currently learning C#
+- 📫 How to reach me xanman414@gmail.com
